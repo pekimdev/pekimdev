@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Pekim 👋
 
-- 🌱 Estou aperfeiçoando conhecimentos em Node.js, React e SQL...
+- 🌱 Estou aperfeiçoando conhecimentos em Node.js, React, SQL, Docker, Python, Ruby...
 
 
 
